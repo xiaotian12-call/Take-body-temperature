@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Temperature</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_title_tp">体温录入</string>
+    <string name="add_tp_in">请输入体温</string>
+    <string name="add_image">体温图片</string>
+    <string name="add_but">录入</string>
+    <string name="menu_claer">清空数据</string>
+    <string name="menu_chart" >体温图表</string>
+</resources>
